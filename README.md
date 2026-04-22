@@ -12,7 +12,7 @@ I started with **game development** (C# + Unity) during high school, but switche
 **Front-end:** HTML, CSS  
 **Currently learning:** JavaScript  
 **Tools:** Git, GitHub  
-**Other Experiencie:** C#  
+**Other Experience:** C#  
 
 ## 📌 Featured Projects
 
