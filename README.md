@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Joaquim 👋
 
-<!--
-**joaquim4768/joaquim4768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building modern and responsive applications with **HTML, CSS and JavaScript**.  
+Currently studying JavaScript and improving my skills through personal projects.
 
-Here are some ideas to get you started:
+## ⚡ Fun fact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started with **game development** (C# + Unity) during high school, but switched my focus to **web development**.
+
+## 🛠 Tech Stack
+
+**Front-end:** HTML, CSS  
+**Currently learning:** JavaScript  
+**Tools:** Git, GitHub  
+**Other Experiencie:** C#  
+
+## 📌 Featured Projects
+
+- **Project Portfolio** — Personal Portfolio with responsive layout and theme toggle (**HTML/CSS/JS**)  
+  🔗 [Live Demo](https://joaquim4768.github.io/projeto-portfolio/) | 📂 [Repository](https://github.com/joaquim4768/projeto-portfolio)
+
+- **Project Login** — Responsive Login page with clean UI (**HTML/CSS**)  
+  🔗 [Live Demo](https://joaquim4768.github.io/projeto-login/) | 📂 [Repository](https://github.com/joaquim4768/projeto-login)  
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/joaquim-andrade-2b8632302/)
+- Email: [joaquim.ladm@gmail.com](mailto:joaquim.ladm@gmail.com)
