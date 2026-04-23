@@ -5,7 +5,7 @@ Currently studying JavaScript and improving my skills through personal projects.
 
 ## ⚡ Fun fact
 
-I started with **game development** (C# + Unity) during high school, but switched my focus to **web development**.
+I started with **game development** (C# + Unity), but switched my focus to **web development**.
 
 ## 🛠 Tech Stack
 
