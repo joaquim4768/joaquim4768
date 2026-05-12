@@ -11,7 +11,7 @@ I started with **game development** (C# + Unity), but switched my focus to **web
 
 **Front-end:** HTML, CSS  
 **Currently learning:** JavaScript  
-**Tools:** Git, GitHub  
+**Tools:** Git, GitHub, Node.js  
 **Other Experience:** C#  
 
 ## 📌 Featured Projects
