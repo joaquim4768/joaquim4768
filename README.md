@@ -16,8 +16,8 @@ I started with **game development** (C# + Unity), but switched my focus to **web
 
 ## 📌 Featured Projects
 
-- **Project Portfolio** — Personal Portfolio with responsive layout and theme toggle (**HTML/CSS/JS**)  
-  🔗 [Live Demo](https://joaquim4768.github.io/projeto-portfolio/) | 📂 [Repository](https://github.com/joaquim4768/projeto-portfolio)
+- **Portfolio** — Personal Portfolio with responsive layout and theme toggle (**HTML/CSS/JS**)  
+  🔗 [Live Demo](https://joaquim4768.github.io/Portfolio/) | 📂 [Repository](https://github.com/joaquim4768/Portfolio)
 
 - **Project Login** — Responsive Login page with clean UI (**HTML/CSS**)  
   🔗 [Live Demo](https://joaquim4768.github.io/projeto-login/) | 📂 [Repository](https://github.com/joaquim4768/projeto-login)  
